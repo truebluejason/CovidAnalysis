@@ -185,12 +185,12 @@ matplot(Days, cbind(LowerBound, Mean, UpperBound), type='l', lty=c(2,1,2), col=c
 
 The black line denotes the expected number of new cases that will arise
 and the red line denotes the 95% confidence interval of the prediction.
+
+
+## Conclusion
+
 The fitted model shows us that the number of cases to follow will at
 least be tens of thousands, and in worst case, hundreds of thousands.
 Our analysis highlights a clear need for the US government to take a
 drastic measure to curtail the future infections. Otherwise, the number
 of new infections will continue to increase at a very sharp rate.
-
-## Conclusion
-
-<TO BE FILLED OUT BY LEO>
