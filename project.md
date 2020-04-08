@@ -190,3 +190,5 @@ and the red line denotes the 95% confidence interval of the prediction.
 ## Conclusion
 
 So far now, we gain the fitted model to predict of new COVID-19 cases in US for the next five days. With the 95% confidence of the prediction, our fitted model shows us that the number of cases to follow will at least be tens of thousands, and in worst case, hundreds of thousands. Our analysis highlights a clear need for the US government to take a drastic measure to curtail the future infections. Otherwise, the number of new infections will continue to increase at a very sharp rate.
+
+There are limitations in our project, we do not consider the impact of imported cases from abroad and outbound cases. And the immediate corrective action of local government can intervene the increase of new cases. Further study can be conduct.
