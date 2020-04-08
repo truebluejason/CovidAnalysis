@@ -3,7 +3,12 @@ Covid Analysis
 
 ## Introduction
 
-<TO BE FILLED OUT BY VIOLET>
+Various diseases have plagued mankind ever since the beginning of history, from sudden and disruptive eruption of bubonic plague and small pox to long lasting virus such as malaria and influenza, the combination of these has killed millions upon millions of humans, with some wiping out cities, provinces, and continents. Today, we’re faced with a new challenge - COVID-19. 
+
+COVID-19 is rapidly spreading worldwide and the World Health Organization has declared COVID-19 outbreaks a global pandemic from March 11, 2020. Up to April 7th, COVID-19 has spread to 209 countries and territories around the world, more than 1300000 confirmed cases and 74000 deaths have been reported. It is noteworthy that the significant increase of confirmed cases in the United States during the past few weeks. We are interested in the prediction of the daily new cases in the US for the next 5 days, from April 8th to April 12.
+
+The data was collected from European Centre for Disease Prevention and Control(ECDC). The ECDC publishes the number of new confirmed cases and deaths daily for countries around the world. Their data is aggregated from various governments and organizations including national agencies, public health institutes, the World Health Organization and so on. We filtered the daily data of new confirmed cases and deaths for the US from December 31,2019 to April 7, 2020 as our initial dataset.  
+
 
 ## Analysis
 
